@@ -1,6 +1,6 @@
 *******************************************************
-*  Name      :  Anisa Filfil and Edwina Maben
-*  Student ID:  107592654  and   108270286
+*  Name      :  Anisa Filfil
+*  Student ID:  107592654
 *  Class     :  CSCI 2421
 *  HW#       :  MOVIES DATABASE-FINAL PROJECT
 *  Due Date  :  December 11th, 2019
